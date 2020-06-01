@@ -1,0 +1,1 @@
+Este projeto tem por objetivo aprimorar os conhecimentos adquiridos na Aula02 de CPW3, que tratou da implementação das camadas: model, dao, controller e view. 

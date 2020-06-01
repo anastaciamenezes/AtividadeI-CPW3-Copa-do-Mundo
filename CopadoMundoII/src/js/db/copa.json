@@ -1,0 +1,130 @@
+{
+    "times": [{
+            "ano": "1930",
+            "campeao": "Uruguai",
+            "vicecampeao": "Argentina",
+            "tecnico": "Alberto Suppici"
+        },
+        {
+            "ano": "1934",
+            "campeao": "Italia",
+            "vicecampeao": "Tchecoslovaquia",
+            "tecnico": "Vittorio Pozzo"
+        },
+        {
+            "ano": "1938",
+            "campeao": "Italia",
+            "vicecampeao": "Hungria",
+            "tecnico": "Vittorio Pozzo"
+        },
+        {
+            "ano": "1950",
+            "campeao": "Uruguai",
+            "vicecampeao": "Brasil",
+            "tecnico": "Juan Lopez"
+        },
+        {
+            "ano": "1954",
+            "campeao": "Alemanha Ocidental",
+            "vicecampeao": "Hungria",
+            "tecnico": "Sepp Herberger"
+        },
+        {
+            "ano": "1958",
+            "campeao": "Brasil",
+            "vicecampeao": "Suecia",
+            "tecnico": "Vicent Feola"
+        },
+        {
+            "ano": "1962",
+            "campeao": "Brasil",
+            "vicecampeao": "Tchecoslovaquia",
+            "tecnico": "Aymore Moreira"
+        },
+        {
+            "ano": "1966",
+            "campeao": "Inglaterra",
+            "vicecampeao": "Alemanha Ocidental",
+            "tecnico": "Alf Ramsey"
+        },
+        {
+            "ano": "1970",
+            "campeao": "Brasil",
+            "vicecampeao": "Italia",
+            "tecnico": "Mario Zagalo"
+        },
+        {
+            "ano": "1974",
+            "campeao": "Alemanha Ocidental",
+            "vicecampeao": "Paises Baixos",
+            "tecnico": "Helmut Schoen"
+        },
+        {
+            "ano": "1978",
+            "campeao": "Argentina",
+            "vicecampeao": "Paises Baixos",
+            "tecnico": "Cesar Luis Menotti"
+        },
+        {
+            "ano": "1982",
+            "campeao": "Italia",
+            "vicecampeao": "Alemanha Ocidental",
+            "tecnico": "Enzo Bearzot"
+        },
+        {
+            "ano": "1986",
+            "campeao": "Argentina",
+            "vicecampeao": "Alemanha Ocidental",
+            "tecnico": "Carlos Bilardo"
+        },
+        {
+            "ano": "1990",
+            "campeao": "Alemanha Ocidental",
+            "vicecampeao": "Argentina",
+            "tecnico": "Franz Beckenbauer"
+        },
+        {
+            "ano": "1994",
+            "campeao": "Brasil",
+            "vicecampeao": "Italia",
+            "tecnico": "Carlos Alberto Parreira"
+        },
+        {
+            "ano": "1998",
+            "campeao": "França",
+            "vicecampeao": "Brasil",
+            "tecnico": "Aimé Jacquet"
+        },
+        {
+            "ano": "2002",
+            "campeao": "Brasil",
+            "vicecampeao": "Alemanha",
+            "tecnico": "Luiz Felipe Scolari"
+        },
+        {
+            "ano": "2006",
+            "campeao": "Italia",
+            "vicecampeao": "Franca",
+            "tecnico": "Marcello Lippi"
+        },
+        {
+            "ano": "2010",
+            "campeao": "Espanha",
+            "vicecampeao": "Países Baixos",
+            "tecnico": "Vicente Del Bosque"
+        },
+        {
+            "ano": "2014",
+            "campeao": "Alemanha",
+            "vicecampeao": "Argentina",
+            "tecnico": "Joachim Loew"
+        },
+        {
+            "ano": "2018",
+            "campeao": "França",
+            "vicecampeao": "Croacia",
+            "tecnico": "Didier Deschamps"
+        }
+    ]
+
+}
